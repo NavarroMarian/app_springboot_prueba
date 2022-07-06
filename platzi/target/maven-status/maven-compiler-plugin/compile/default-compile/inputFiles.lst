@@ -1,0 +1,16 @@
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\Category.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\Producto.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\ComprasProducto.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\ComprasProductoPK.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\mapper\CategoryMapper.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\repository\ProductRepository.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\mapper\ProductMapper.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\Product.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\domain\service\ProductService.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\Categoria.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\ProductoRepository.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\web\controller\ProductController.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\Cliente.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\crud\ProductoCrudRepository.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\persistence\entity\Compra.java
+C:\Users\mariana.navarro\Documents\platzi\platzi\src\main\java\com\platzi\market\PlatziApplication.java
